@@ -1,0 +1,47 @@
+{
+  "Social": [
+    {
+      "id": 1,
+      "name": "Mari",
+      "surname": "Carmen",
+      "yearOfBirth": "1995",
+      "isFriend": "true"
+    },
+    {
+      "id": 2,
+      "name": "Carmen",
+      "surname": "Mari",
+      "yearOfBirth": "1998",
+      "isFriend": "false"
+    },
+
+    {
+      "id": 3,
+      "name": "Mia",
+      "surname": "Ciela",
+      "yearOfBirth": "2000",
+      "isFriend": "true"
+    },
+    {
+      "id": 4,
+      "name": "Elver",
+      "surname": "Galarga",
+      "yearOfBirth": "2001",
+      "isFriend": "true"
+    },
+    {
+      "id": 5,
+      "name": "Mickey",
+      "surname": "Mouse",
+      "yearOfBirth": "2019",
+      "isFriend": "false"
+    },
+    {
+      "id": 6,
+      "name": "Augusto",
+      "surname": "Gomez",
+      "yearOfBirth": "1995",
+      "isFriend": "true"
+    }
+  ]
+}
