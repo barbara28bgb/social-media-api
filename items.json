@@ -2,46 +2,51 @@
   "Social": [
     {
       "id": 1,
-      "name": "Mari",
-      "surname": "Carmen",
-      "yearOfBirth": "1995",
-      "isFriend": "true"
+      "name": "Yastaqui",
+      "surname": "Laguerra",
+      "yearOfBirth": "1950",
+      "isFriend": "true",
+      "image": "https://i.ibb.co/qs0PHQD/pum.webp"
     },
     {
       "id": 2,
-      "name": "Carmen",
-      "surname": "Mari",
-      "yearOfBirth": "1998",
-      "isFriend": "false"
+      "name": "Tram",
+      "surname": "Boliko",
+      "yearOfBirth": "1982",
+      "isFriend": "false",
+      "image": "https://i.ibb.co/Jrmwpjn/tramboliko.webp"
     },
-
     {
       "id": 3,
-      "name": "Mia",
-      "surname": "Ciela",
-      "yearOfBirth": "2000",
-      "isFriend": "true"
+      "name": "Cañita",
+      "surname": "Brava",
+      "yearOfBirth": "1946",
+      "isFriend": "true",
+      "image": "https://i.ibb.co/6XSfm68/ca-ita.webp"
     },
     {
       "id": 4,
-      "name": "Elver",
-      "surname": "Galarga",
-      "yearOfBirth": "2001",
-      "isFriend": "true"
+      "name": "Pimpam",
+      "surname": "Lacasitos",
+      "yearOfBirth": "1988",
+      "isFriend": "false",
+      "image": "https://i.ibb.co/t3Hc9pX/lacasitos.webp"
     },
     {
       "id": 5,
-      "name": "Mickey",
-      "surname": "Mouse",
-      "yearOfBirth": "2019",
-      "isFriend": "false"
+      "name": "Monica",
+      "surname": "Raval",
+      "yearOfBirth": "1940",
+      "isFriend": "false",
+      "image": "https://i.ibb.co/cgXYr3W/raval.webp"
     },
     {
       "id": 6,
-      "name": "Augusto",
-      "surname": "Gomez",
-      "yearOfBirth": "1995",
-      "isFriend": "true"
+      "name": "Jordi",
+      "surname": "Hurtado",
+      "yearOfBirth": "1800",
+      "isFriend": "true",
+      "image": "https://i.ibb.co/3vdPp8m/hurtado.webp"
     }
   ]
 }
