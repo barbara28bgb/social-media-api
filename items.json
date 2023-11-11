@@ -1,49 +1,43 @@
 {
-  "Social": [
+  "Conatcts": [
     {
       "id": 1,
-      "name": "Yastaqui",
-      "surname": "Laguerra",
+      "name": "Yastaqui Laguerra",
       "yearOfBirth": "1950",
       "isFriend": "true",
       "image": "https://i.ibb.co/qs0PHQD/pum.webp"
     },
     {
       "id": 2,
-      "name": "Tram",
-      "surname": "Boliko",
+      "name": "Tram Boliko",
       "yearOfBirth": "1982",
       "isFriend": "false",
       "image": "https://i.ibb.co/Jrmwpjn/tramboliko.webp"
     },
     {
       "id": 3,
-      "name": "Cañita",
-      "surname": "Brava",
+      "name": "Cañita Brava",
       "yearOfBirth": "1946",
       "isFriend": "true",
       "image": "https://i.ibb.co/6XSfm68/ca-ita.webp"
     },
     {
       "id": 4,
-      "name": "Pimpam",
-      "surname": "Lacasitos",
+      "name": "Pimpam acasitos",
       "yearOfBirth": "1988",
       "isFriend": "false",
       "image": "https://i.ibb.co/t3Hc9pX/lacasitos.webp"
     },
     {
       "id": 5,
-      "name": "Monica",
-      "surname": "Raval",
+      "name": "Monica Raval",
       "yearOfBirth": "1940",
       "isFriend": "false",
       "image": "https://i.ibb.co/cgXYr3W/raval.webp"
     },
     {
       "id": 6,
-      "name": "Jordi",
-      "surname": "Hurtado",
+      "name": "Jordi Hurtado",
       "yearOfBirth": "1800",
       "isFriend": "true",
       "image": "https://i.ibb.co/3vdPp8m/hurtado.webp"
